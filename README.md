@@ -1,7 +1,3 @@
-إليك النص بالكامل محدثًا بكل التفاصيل المطلوبة:
-
----
-
 <img width="99.9%" src="https://raw.githubusercontent.com/Makavael/Makavael.menu.io/master/img/AdminHackImg/IMG-adc29ed25806177260186a4fbdbe70c9-V.jpg"/>
 
 <p align="center">
