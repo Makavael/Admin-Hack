@@ -137,8 +137,6 @@ If the tool fails, follow these steps:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Makavael&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
 
-## Supporters
-[![Stargazers repo roster for @Makavael/AdminHack](https://reporoster.com/stars/Makavael/AdminHack)](https://github.com/Makavael/AdminHack/stargazers)
-[![Forkers repo roster for @Makavael/AdminHack](https://reporoster.com/forks/Makavael/AdminHack)](https://github.com/Makavael/AdminHack/members)
+
 
 ---
